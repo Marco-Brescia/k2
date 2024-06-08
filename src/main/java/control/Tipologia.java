@@ -19,6 +19,7 @@ public class Tipologia extends HttpServlet {
      */
     public Tipologia() {
         super();
+        
         // TODO Auto-generated constructor stub
     }
 
