@@ -77,6 +77,7 @@ public class Vendita extends HttpServlet {
 							else if (item.getFieldName().compareTo("descrizione") == 0) {
 		                		product.setDescrizione(item.getString());
 		                	}
+		                	 
 		                }
 		            }
 
